@@ -1,8 +1,8 @@
 # College_System
 
-This projects was written in java and interacts with an SQL database.
+This project uses a JavaFX GUI to allow the user to interact with an SQL database.
 
-The user, in the role of a student or teacher, is presented with a GUI and can perform several actions including:
+The user, in the role of a student or teacher, is presented with a GUI and can perform several database manipulations including:
 
 - Add and remove students/teachers from database
 - Edit existing information for a student/teacher
